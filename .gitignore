@@ -1,0 +1,20 @@
+# Fichiers de construction
+dist/
+build/
+*.js
+*.d.ts
+
+# Dépendances
+node_modules/
+node_modules/ffmpeg-static/ffmpeg.exe
+
+# Fichiers de configuration locaux
+.env
+*.log
+.vscode/
+.idea/
+
+# Fichiers de cache et temporaires
+*.cache/
+tmp/
+temp/
